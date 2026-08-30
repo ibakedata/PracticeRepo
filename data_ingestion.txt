@@ -1,1 +1,2 @@
 Initiate data ingestion
+Data ingested
